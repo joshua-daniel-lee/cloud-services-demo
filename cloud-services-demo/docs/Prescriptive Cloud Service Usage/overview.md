@@ -1,19 +1,23 @@
-# Google Cloud Platform
+# Service Name
 
-This section provides an overview of Prescriptive Cloud Service Usage. Here, you will find guidelines and best practices for optimizing cloud service utilization.
+## Description
 
-## Key Features
+Provide a brief description of the service here.
 
-- Cost optimization strategies
-- Performance tuning
-- Security best practices
+## Keywords
 
-## Getting Started
+- Keyword 1
+- Keyword 2
+- Keyword 3
 
-To get started with Prescriptive Cloud Service Usage, explore the following resources and tutorials.
+## Who this service is for
 
-## Resources
+Describe the target audience for this service.
 
-- [Cloud Cost Management](#)
-- [Performance Optimization Techniques](#)
-- [Security Best Practices Guide](#)
+## Cost Model Information
+
+Outline the cost model for this service, including any pricing tiers or options.
+
+## Request More Information
+
+[Request More Information](mailto:info@example.com?subject=Request%20for%20More%20Information%20on%20Service%20Name)

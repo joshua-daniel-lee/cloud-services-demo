@@ -53,7 +53,7 @@ const styles = {
 function HomepageHeader() {
   return (
     <div style={styles.container}>
-      <h1 style={styles.title}>Fisheries Cloud Program</h1>
+      <h1 style={styles.title}>Cloud Services</h1>
       <p style={styles.subtitle}>Cloud Service Catalog</p>
     </div>
   );
