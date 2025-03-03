@@ -1,4 +1,4 @@
-# Prescriptive Cloud Service Usage
+# Google Cloud Platform
 
 This section provides an overview of Prescriptive Cloud Service Usage. Here, you will find guidelines and best practices for optimizing cloud service utilization.
 
